@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata-crlgasque",
-    version="1.0",
+    version="1.01",
     author="Ramses Gasque",
     author_email="crlgasque@gmail.com",
     description="Personal helper functions",
